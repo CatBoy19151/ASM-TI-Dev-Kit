@@ -1,0 +1,13 @@
+This text file will be used to check which keycode is which.
+
+$01 = Down Arrow
+$02 = Left Arrow
+$03 = Right Arrow
+$04 = Up Arrow
+$05 = ???
+$06 = ???
+$07 = ???
+$08 = ???
+$09 = ???
+
+more to come
